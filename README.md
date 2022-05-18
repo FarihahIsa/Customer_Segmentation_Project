@@ -3,14 +3,14 @@
 # Customer_Segmentation_Project
  
 ## Description:
-This project is to predict the right group of the new customer
+This project is to predict the right group of the new customer...
 
 ## Notes:
 ( / ) Train Script
 
-( X ) Deployment Script
+( / ) Module Script
 
-( X ) Modules Script
+( / ) Deployment Script - but not functioning well!
 
 ## TensorBoard : 
 
