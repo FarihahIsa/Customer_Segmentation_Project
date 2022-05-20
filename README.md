@@ -6,11 +6,11 @@
 This project is to predict the right group of the new customer...
 
 ## Notes:
-( / ) Train Script
+( √ ) Train Script
 
-( / ) Module Script
+( √ ) Module Script
 
-( / ) Deployment Script - but not functioning well!
+( √ ) Deployment Script - but not functioning well
 
 ## TensorBoard : 
 
