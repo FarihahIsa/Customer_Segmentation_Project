@@ -14,7 +14,7 @@ This project is to predict the right group of the new customer...
 
 ## TensorBoard : 
 
-![ Tensorboard screenshot]![Screenshot 2022-06-10 at 5 58 00 PM](https://user-images.githubusercontent.com/103228612/173041830-8d55a49b-d284-4d6b-9a9e-7037160f658f.png)
+![ Tensorboard screenshot](https://user-images.githubusercontent.com/103228612/173041830-8d55a49b-d284-4d6b-9a9e-7037160f658f.png)
 
 
 ## Credits :
